@@ -1,4 +1,6 @@
-# A Jornada de Bia — v31.7
+# Jornada de Bia — Comunicação Assistiva | Linha Sakura
+
+Aplicativo web de comunicação aumentativa e alternativa (CAA), desenvolvido por **[Rafael Ricardo Mayer](https://github.com/rafaelrmayer)** para apoiar a expressão de necessidades, sentimentos e intenções por meio de cartões e frases personalizadas. Este repositório reúne a linha Sakura do projeto, com recursos experimentais de personalização local.
 
 Home simplificada, estabilização de segurança, temas azul/rosa/verde com modo escuro e Random Forest experimental local.
 
@@ -91,3 +93,15 @@ Esta versão inicia a nova numeração Sakura e corrige o contraste do tooltip c
 
 ## Sakura V1.3 — contraste das notificações
 Ajusta o contraste e a quebra de texto das notificações `.toast-message` para temas claros/escuros. Veja `CHANGELOG_SAKURA_V1_3.md`.
+
+## Autoria
+
+Desenvolvido por **[Rafael Ricardo Mayer](https://github.com/rafaelrmayer)**, desenvolvedor e pesquisador independente com foco em inteligência artificial, tecnologia assistiva, acessibilidade e soluções digitais.
+
+Conheça o [perfil e portfólio de projetos de Rafael Ricardo Mayer](https://github.com/rafaelrmayer).
+
+## Outros projetos de Rafael Ricardo Mayer
+
+- **[Rede Girassol API](https://github.com/rafaelrmayer/Rede_Girassol_API_V_1)**: Organização de dados públicos de saúde.
+- **[Prospecta](https://github.com/rafaelrmayer/Prospecta_V1)**: Protótipo de prospecção comercial local.
+- **[INK Bia Cerisier](https://github.com/rafaelrmayer/ink-bia-cerisier)**: Projeto de plataforma de gestão para tatuadores e estúdios.
